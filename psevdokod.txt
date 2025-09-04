@@ -1,0 +1,23 @@
+1 )Başla
+  m daxil et
+  hasil ← 1
+  i ← 2
+  Təkrarla (i ≤ m olduqca)
+      hasil ← hasil * i
+      i ← i + 2
+  Təkrarı bitir
+  hasil-i ekrana çıxar
+Bitir
+
+2) Başla
+  n daxil et
+  Əgər (n % 3 = 0) onda
+      Əgər (n % 2 = 0) onda
+          ekrana "3-e bolunur cutdur" çıxar
+      Əks halda
+          ekrana "3-e bolunur tekdir" çıxar
+      Son
+  Əks halda
+      ekrana "3-e bolunmur" çıxar
+  Son
+Bitir
