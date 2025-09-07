@@ -1,0 +1,32 @@
+1 Başla
+  N daxil et
+  Əgər N 3-ə bölünürsə
+      Əgər N cüt-dürsə
+          "3-e bolunur cutdur" yaz
+      Əks halda
+          "3-e bolunur tekdir" yaz
+  Əks halda
+      "3-e bolunmur" yaz
+Bitir
+
+2 Başla
+  a, b, c daxil et
+  Əgər a > b və a > c
+      "En boyuk a-dir" yaz
+  Əks halda əgər b > a və b > c
+      "En boyuk b-dir" yaz
+  Əks halda
+      "En boyuk c-dir" yaz
+Bitir
+
+3 Başla
+  T daxil et
+  Əgər T < 0
+      "Donma" yaz
+  Əks halda əgər 0 <= T <= 15
+      "Soyuq" yaz
+  Əks halda əgər 16 <= T <= 30
+      "Mülayim" yaz
+  Əks halda
+      "İsti" yaz
+Bitir
